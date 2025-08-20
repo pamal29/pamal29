@@ -1,16 +1,25 @@
-## Hi there 👋
+![Profile Banner](https://github.com/pamal29.png)
 
-<!--
-**pamal29/pamal29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm pamal29!
 
-Here are some ideas to get you started:
+🎓 **Undergraduate at Sabaragamuwa University**  
+💻 Passionate about coding and building cool projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- Java
+
+## 🏆 Projects
+- **Movie Stream Website**: Enjoy seamless streaming with an intuitive user experience.
+- **To-Do List**: Organize tasks efficiently and boost productivity.
+- **Snake Game**: Classic arcade fun, reimagined for modern platforms.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pamal29&show_icons=true&hide_title=true" alt="GitHub Stats" />
+</p>
+
+---
+
+Thanks for visiting my profile! 🚀
