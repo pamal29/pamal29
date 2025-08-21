@@ -5,21 +5,24 @@
 🎓 **Undergraduate at Sabaragamuwa University**  
 💻 Passionate about coding and building cool projects
 
-## 🚀 Skills
-- Python
-- Java
+<!-- Language Stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamal29&layout=compact&theme=dark)
 
-## 🏆 Projects
-- **Movie Stream Website**: Enjoy seamless streaming with an intuitive user experience.
-- **To-Do List**: Organize tasks efficiently and boost productivity.
-- **Snake Game**: Classic arcade fun, reimagined for modern platforms.
+<!-- Skills -->
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=java)
 
----
+## My Best Repo Status 🐇
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamal29&show_icons=true&hide_title=true" alt="GitHub Stats" />
-</p>
-
----
-
-Thanks for visiting my profile! 🚀
+<a href="https://github.com/pamal29/Movie-Stream-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pamal29&repo=Movie-Stream-Website&theme=dark" />
+</a>
+<a href="https://github.com/pamal29/Todo-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pamal29&repo=Todo-List&theme=dark" />
+</a>
+<a href="https://github.com/pamal29/Snake-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pamal29&repo=Snake-Game&theme=dark" />
+</a>
