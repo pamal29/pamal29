@@ -1,29 +1,25 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/pamal29">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF2D75&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Pamal!;🚀+Full+Stack+developer;Thank+You+For+Visiting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=1DB954&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Pamal!+Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 <h1 align="center">
-  # 👋 Hey there, I'm Pamal Pahasara
+  # 🎓 Undergraduate | 💻 Code Enthusiast | 🚀 Future Developer 
 </h1>
-
-<br/>
-
-<h2 align="center">💻 **Code. Debug. Repeat.** 🚀</h2>
 <br/>
 
 <!--Intro start-->
 
-- 🎓 **Undergraduate at Sabaragamuwa University**  
+- 🎓 **Undergraduate at Sabaragamuwa University**
+  
+- ✨ I love exploring new technologies and crafting solutions with code.  
 
-- 🔭 I’m currently working on **Python & Java**
+- 🌱 Currently learning **Web Development, Java, and Python**. 
 
-- ☁️ I'm interest in **Full-Stack Development.**
-
-- 📫 Feel free to reach me from the links down below
+- 💡 Always curious, always building. 
 
 - 🏠 Don't hesitate to drop me a **👋** on LinkedIn - [Here](https://www.linkedin.com/in/pamal-pahasara-990ba2324)
 <!--Intro end-->
@@ -47,9 +43,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pamal-pahasara-990ba2324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pamal29" height="30" width="40" /></a>
 <a href="https://www.facebook.com/pamal.pehesara?mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pamal29" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pamal_329?igsh=MXRsZjlvdWtnZDVhcQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamal29" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pamal_329?igsh=MXRsZjlvdWtnZDVhcQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pamal29" height="30" width="40" /></a></p>
+
+<br/>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=800&lines=Code.+Debug.+Repeat." alt="Typing SVG"/>
 </p>
 
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pamal29&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
