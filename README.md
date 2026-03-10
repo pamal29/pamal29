@@ -29,10 +29,7 @@
 
 ## 📊 GitHub Stats  
 <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamal29&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamal29&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamal29&theme=radical" alt="GitHub Streak" />
 </p>
