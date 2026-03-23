@@ -73,13 +73,7 @@ status:     Open to collaborate & learn
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pamal29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
