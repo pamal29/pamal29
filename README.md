@@ -22,7 +22,6 @@ name:       Pamal Pahasara
 role:       Undergraduate Student
 university: Sabaragamuwa University of Sri Lanka
 focus:      Web Development · Java · Python
-mindset:    Always curious, always building
 status:     Open to collaborate & learn
 ```
 
