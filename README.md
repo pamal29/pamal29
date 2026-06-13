@@ -43,9 +43,6 @@ Daily goal system, persistent local storage with AsyncStorage, and scheduled pus
 
 <div align="center">
 
-<a href="https://github.com/pamal29/HydroTrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pamal29&repo=HydroTrack&theme=tokyonight&hide_border=true&bg_color=000814&title_color=00d4ff&text_color=8ecae6&icon_color=00d4ff" />
-</a>
 <a href="https://github.com/pamal29/PickAFlick">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pamal29&repo=PickAFlick&theme=tokyonight&hide_border=true&bg_color=000814&title_color=00d4ff&text_color=8ecae6&icon_color=00d4ff" />
 </a>
